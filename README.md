@@ -1,0 +1,1 @@
+Simpla langing page templete
