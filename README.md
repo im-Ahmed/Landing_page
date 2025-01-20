@@ -1,1 +1,1 @@
-Simpla langing page templete
+Simple langing page templete
